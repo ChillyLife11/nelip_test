@@ -1,0 +1,1 @@
+import{it as e,x as t}from"./index-CqdOG1WV.js";import{a as n,l as r}from"./Primitive-D1LY3S6e.js";function i(r){let i=n({dir:e(`ltr`)});return t(()=>r?.value||i.dir?.value||`ltr`)}function a(){let n=e();return{primitiveElement:n,currentElement:t(()=>[`#text`,`#comment`].includes(n.value?.$el.nodeName)?n.value?.$el.nextElementSibling:r(n))}}export{i as n,a as t};
